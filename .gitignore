@@ -1,0 +1,11 @@
+﻿bin
+obj
+log
+packages
+*.deploy
+*.application
+*.htm
+*.exe
+*.suo
+*.user
+
